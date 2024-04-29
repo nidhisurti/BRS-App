@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/13OTLAXnnnSoVuTAfZezsujbctQYiv2oY
 """
 
-!pip install Streamlit
+#!pip install Streamlit
 
-!pip install pathlib
+#!pip install pathlib
 
 from pathlib import Path
 
